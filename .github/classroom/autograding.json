@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "2+2",
-      "setup": "",
+      "setup": "npm install",
       "run": "node index.js",
       "input": "2\r\n3",
       "output": "5",
